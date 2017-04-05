@@ -1,0 +1,46 @@
+Starting simulation for Captain America: Civil War which starts at 22:00.
+The line can hold a maximum of 20 patrons.
+The time is currently 20:00
+21:40   A is entering the line
+        B is entering the line
+        C is entering the line
+        D is entering the line
+        E is entering the line
+        F is entering the line
+        G is entering the line
+        H is entering the line
+        I is entering the line
+        J is entering the line
+        K is entering the line
+        L is entering the line
+21:40   A has entered the theater!
+21:41   B has entered the theater!
+21:42   C has entered the theater!
+21:43   D has entered the theater!
+21:44   E has entered the theater!
+21:45   M is entering the line
+        N is entering the line
+        O is entering the line
+        P is entering the line
+        Q is entering the line
+        R is entering the line
+        S is entering the line
+        T is entering the line
+21:45   F has entered the theater!
+21:46   G has entered the theater!
+21:47   H has entered the theater!
+21:48   I has entered the theater!
+21:49   J has entered the theater!
+21:50   K has entered the theater!
+21:51   L has entered the theater!
+21:52   M has entered the theater!
+21:53   N has entered the theater!
+21:54   O has entered the theater!
+21:55   P has entered the theater!
+21:56   Q has entered the theater!
+21:57   R has entered the theater!
+21:58   S has entered the theater!
+21:59   T has entered the theater!
+Doors closing, ending simulation!
+There are 0 patrons left in line!
+Press any key to continue . . .

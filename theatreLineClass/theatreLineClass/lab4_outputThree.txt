@@ -1,0 +1,42 @@
+Starting simulation for Fantastic Beasts and Where to Find Them which starts at 00:00.
+The line can hold a maximum of 10 patrons.
+The time is currently 22:00
+22:01   A is entering the line
+        B is entering the line
+        C is entering the line
+22:02   D is entering the line
+        E is entering the line
+        F is entering the line
+22:03   G is entering the line
+        H is entering the line
+        I is entering the line
+22:49   J is entering the line
+        Line has overflowed!  Patron K was turned away!
+        Line has overflowed!  Patron L was turned away!
+        Line has overflowed!  Patron M was turned away!
+        Line has overflowed!  Patron N was turned away!
+        Line has overflowed!  Patron O was turned away!
+        Line has overflowed!  Patron P was turned away!
+        Line has overflowed!  Patron Q was turned away!
+        Line has overflowed!  Patron R was turned away!
+        Line has overflowed!  Patron S was turned away!
+        Line has overflowed!  Patron T was turned away!
+        Line has overflowed!  Patron U was turned away!
+        Line has overflowed!  Patron V was turned away!
+        Line has overflowed!  Patron W was turned away!
+        Line has overflowed!  Patron X was turned away!
+        Line has overflowed!  Patron Y was turned away!
+        Line has overflowed!  Patron Z was turned away!
+23:00   A has entered the theater!
+23:01   B has entered the theater!
+23:02   C has entered the theater!
+23:03   D has entered the theater!
+23:04   E has entered the theater!
+23:05   F has entered the theater!
+23:06   G has entered the theater!
+23:07   H has entered the theater!
+23:08   I has entered the theater!
+23:09   J has entered the theater!
+Doors closing, ending simulation!
+There are 0 patrons left in line!
+Press any key to continue . . .

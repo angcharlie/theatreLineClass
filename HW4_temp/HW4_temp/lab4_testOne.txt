@@ -1,0 +1,13 @@
+17 30 5 The Empire Strikes Back
+15 31 A X Y Z
+15 32 B
+15 33 C
+15 34 D Q M P
+15 35 E
+15 36 F
+15 37 G
+15 38 H
+15 39 I
+16 40 J
+16 50 K
+17 29 R S T U V

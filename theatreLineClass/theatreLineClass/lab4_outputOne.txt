@@ -1,0 +1,36 @@
+Starting simulation for The Empire Strikes Back which starts at 17:30.
+The line can hold a maximum of 5 patrons.
+The time is currently 15:30
+15:31   A is entering the line
+        X is entering the line
+        Y is entering the line
+        Z is entering the line
+15:32   B is entering the line
+15:33   Line has overflowed!  Patron C was turned away!
+15:34   Line has overflowed!  Patron D was turned away!
+        Line has overflowed!  Patron Q was turned away!
+        Line has overflowed!  Patron M was turned away!
+        Line has overflowed!  Patron P was turned away!
+15:35   Line has overflowed!  Patron E was turned away!
+15:36   Line has overflowed!  Patron F was turned away!
+15:37   Line has overflowed!  Patron G was turned away!
+15:38   Line has overflowed!  Patron H was turned away!
+15:39   Line has overflowed!  Patron I was turned away!
+16:30   A has entered the theater!
+16:31   X has entered the theater!
+16:32   Y has entered the theater!
+16:33   Z has entered the theater!
+16:34   B has entered the theater!
+16:40   J is entering the line
+16:40   J has entered the theater!
+16:50   K is entering the line
+16:50   K has entered the theater!
+17:29   R is entering the line
+        S is entering the line
+        T is entering the line
+        U is entering the line
+        V is entering the line
+17:29   R has entered the theater!
+Doors closing, ending simulation!
+There are 4 patrons left in line!
+Press any key to continue . . .
